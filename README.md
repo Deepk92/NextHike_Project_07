@@ -17,3 +17,8 @@ Objectives:
 ●	Robustness: Create a model that can handle variations in language, including slang, abbreviations, and cultural nuances, to ensure effectiveness across diverse tweet datasets.
 
 ●	Scalability: Build a scalable solution capable of processing large volumes of tweets in real-time to support continuous monitoring efforts.
+
+Key Tasks:
+
+Part 1: Data Exploration and Preparation
+
