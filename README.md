@@ -21,5 +21,6 @@ Objectives:
 Key Tasks:
 
 Part 1: Data Exploration and Preparation
+
 Part 2: Feature Engineering and Model Selection
 
