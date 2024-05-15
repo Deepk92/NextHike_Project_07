@@ -28,3 +28,9 @@ Part 3: Model Evaluation and Validation
 
 Part 4: Web Application Development
 
+
+Results and Insights :
+
+The logistic regression model effectively classified disaster tweets with high precision, demonstrating the importance of feature engineering and model tuning in NLP tasks.
+
+
