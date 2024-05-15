@@ -33,4 +33,7 @@ Results and Insights :
 
 The logistic regression model effectively classified disaster tweets with high precision, demonstrating the importance of feature engineering and model tuning in NLP tasks.
 
+Conclusion :
+
+This project underscores the potential of machine learning in disaster response scenarios, highlighting how NLP can be leveraged to quickly classify critical information from social media.
 
